@@ -15,7 +15,9 @@ I did a script for hiring boat. This is a script were you can hire boat and only
 ### General
 My Discord: https://discord.gg/AdkqgkQ
 
-*Ask before re-release of this scipt*
+*Ask before re-releasing of this scipt*
+
+*Please keep the name of the folder `FiskN_hireboat`
 
 # Installation
 ___
