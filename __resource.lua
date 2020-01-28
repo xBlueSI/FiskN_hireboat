@@ -23,6 +23,5 @@ server_script {
 }
 
 dependencies {
-	'essentialmode',
 	'es_extended'
 }
