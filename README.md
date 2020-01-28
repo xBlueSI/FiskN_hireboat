@@ -2,7 +2,7 @@
 I did a script for hiring boat. This is a script were you can hire boat and only one boat at a time. You can add more places to hire boats on and you can also change what boaths are available in eatch hire place. 
 
 ### Features
-* Supports editable config.
+* Supports editable config
 
 ### Required Scripts
 * es_extended
